@@ -1,4 +1,5 @@
 admin="mauridb"
+echo "FOLLOW ME ON GITHUB -- @https://github.com/mauridb --"
 question="$admin, what are your computer programming skills?"
 questionframework="Which frameworks do you know?"
 
